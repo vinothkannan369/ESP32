@@ -9,7 +9,7 @@ idf.py build
 To go to menuconfig   
 idf.py menuconfig
 
-Monitoring   
+Monitoring(choose your COM port)   
 idf.py -p COM3 flash monitor
 
 To Check partition    
