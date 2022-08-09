@@ -1,6 +1,4 @@
-# ESP32
-
-ESP32 commands
+# ESP32 Commands
 
 To Erase flash
 esptool.py --chip esp32 erase_flash 
