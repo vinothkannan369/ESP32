@@ -6,11 +6,11 @@ esptool.py --chip esp32 erase_flash
 To Build         
 idf.py build
 
-To go to menuconfig
+To go to menuconfig   
 idf.py menuconfig
 
-Monitoring
+Monitoring   
 idf.py -p COM3 flash monitor
 
-To Check partition
+To Check partition    
 idf.py partition-table
